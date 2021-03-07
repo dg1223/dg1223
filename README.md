@@ -4,7 +4,7 @@ This is Shamir! I am a software developer at Canada Revenue Agency. I do R&D on 
 - 🔭 I’m currently working on enterprise machine learning architecture, fraud/anomaly detection and confidential computing. I am the technical lead for first two.
 - 🌱 I’m currently learning full stack web development on Coursera. Course: https://www.coursera.org/learn/html-css-javascript-for-web-developers
 - 💬 Ask me about Explainable AI.
-- 🤔 I’m interested in remote work
+- 🤔 I’m interested in remote work.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 - ⚡ I love mountains and waterfalls. Aaand...I stargaze...I have a telescope.
 
