@@ -2,7 +2,7 @@
 This is Shamir! I am a software developer at Canada Revenue Agency. I do R&D on artificial intelligence.
 
 - 🔭 I’m currently the tech lead on two projects at CRA: enterprise machine learning architecture and fraud/anomaly detection.
-- 🌱 I’m currently learning web development. Recently completed course: https://www.coursera.org/learn/html-css-javascript-for-web-developers
+- 🌱 I’m currently learning web development. Recently completed course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 - 💬 Ask me about Explainable AI.
 - 🤔 I’m interested in remote work.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
