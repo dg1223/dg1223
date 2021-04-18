@@ -6,7 +6,7 @@ This is Shamir! I am a software developer at Canada Revenue Agency. I do R&D on 
 - 💬 Ask me about Explainable AI.
 - 🤔 I’m interested in remote work.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
-- :milky_way: I love mountains and waterfalls. And...I stargaze...I have a telescope.
+- :milky_way: I love mountains and waterfalls.
 
 <!--
 **dg1223/dg1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
