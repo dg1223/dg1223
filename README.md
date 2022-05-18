@@ -1,12 +1,9 @@
 ### Hi there 👋
-This is Shamir! I am a software developer at Canada Revenue Agency. I do R&D on artificial intelligence. On the side, I do web development.
+This is Shamir! I am a software engineer and a data guy.
 
-- 🔭 I’m currently the tech lead on two projects at CRA: enterprise machine learning architecture and fraud/anomaly detection.
-- 🌱 I’m currently learning web development. Check out my latest project below: [tech-radar](https://github.com/dg1223/tech-radar/)
-- 💬 Ask me about Responsible AI, Explainability and Fairness.
-- 🤔 I’m interested in remote work.
+- 🔭 I’m currently a consultant at Auleek Ltd. / Openhaus.
+- 🌱 I’m currently working on user behaviour analytics.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
-- :milky_way: I love mountains and waterfalls.
 
 <!--
 **dg1223/dg1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
