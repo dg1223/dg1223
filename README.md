@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Shamir! I am a software engineer and a data guy.
 
-- 🔭 I’m currently a consultant at Auleek Ltd. / Openhaus.
+- 🔭 I’m currently a consultant at Openhaus.
 - 🌱 I’m currently working on user behaviour analytics.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 
