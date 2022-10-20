@@ -1,8 +1,8 @@
 ### Hi there 👋
 This is Shamir! I am a software engineer and a data guy.
 
-- 🔭 I’m currently a consultant at Openhaus.
-- 🌱 I’m currently working on user behaviour analytics.
+- 🔭 I’m the Data Science & Engineering Lead at Openhaus.
+- 🌱 I’m currently working on BI system design, cloud scalability and user behaviour analysis.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 
 <!--
