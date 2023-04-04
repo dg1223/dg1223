@@ -1,8 +1,8 @@
 ### Hi there 👋
 This is Shamir! I am a software engineer and a data guy.
 
-- 🔭 I’m the VP Data Science & Engineering at Openhaus.
-- 🌱 I’m currently working on BI and analytics system design, cloud scalability and user behaviour analysis.
+- 🔭 I’m a currently a free agent. Professiionally, I am a data scientist and business intelligence engineer.
+- 🌱 I’m currently learning full stack web development.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 
 <!--
