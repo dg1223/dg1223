@@ -3,7 +3,7 @@ This is Shamir! I am a data scientist and software engineer.
 
 - 🔭 I’m a currently a free agent.
 - 🌱 I have worked as a data scientist for 7+ years. My most notable experience is building the data infrastructure of a tech start-up from scratch.
-- ⚡ I have learned the ropes on becoming a full-stack engineer. I'm currently learning React Native as part of upskilling myself.
+- ⚡ I have learned the ropes on becoming a full-stack engineer. I'm currently learning React Native and DevOps as part of upskilling myself.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 
 <!--
