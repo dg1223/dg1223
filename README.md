@@ -1,8 +1,8 @@
 ### Hi there 👋
 This is Shamir! I am a data scientist and software engineer.
 
-- 🔭 I’m a currently a free agent.
-- 🌱 I have worked as a data scientist for 7+ years. My most notable experience is building the data infrastructure for a tech start-up from scratch.
+- 🔭 I’m a currently a free agent making open source contributions to [Ganga](https://github.com/ganga-devs/ganga).
+- 🌱 I am a Data Scientist. My most notable experience is building the data infrastructure for a tech start-up from scratch.
 - ⚡ I also have experience as a DevOps and Data engineer.
 - 📫 How to reach me: Send me a message on https://www.linkedin.com/in/shamiralavi
 
