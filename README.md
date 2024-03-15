@@ -82,7 +82,7 @@ This is Shamir! I am a data scientist and software engineer.
 </div>
 <p ></p>
 <p ></p>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdg1223"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fdg1223&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0&style=plastic&labelStyle=none" title="total/daily" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdg1223"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdg1223&label=Visitors&labelColor=%23ff8a65&countColor=%23d9e3f0&style=plastic&labelStyle=none" /></a>
 
 <!--
 **dg1223/dg1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
