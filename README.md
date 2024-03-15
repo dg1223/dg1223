@@ -7,7 +7,7 @@ This is Shamir! I am a data scientist and software engineer.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
 <div id="badges">
-  <a href=["your-linkedin-URL](https://www.linkedin.com/in/shamiralavi/)">
+  <a href=[LinkedIn](https://www.linkedin.com/in/shamiralavi)>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
