@@ -1,9 +1,9 @@
 ## Hi there 👋
 This is Shamir! I am a data scientist and software engineer.
 
-- 🔭 I’m a currently a free agent making open source contributions to [Ganga](https://github.com/ganga-devs/ganga), a project under [CERN-HSF](https://www.gsocorganizations.dev/organization/cern-hsf/).
+- 👯 I’m a currently a free agent making open source contributions to [Ganga](https://github.com/ganga-devs/ganga), a project under [CERN-HSF](https://www.gsocorganizations.dev/organization/cern-hsf/).
 - 🌱 I am a Data Scientist. My most notable experience is building the data infrastructure for a tech start-up from scratch.
-- ⚡ I also have experience as a DevOps and Data engineer.
+- ⚡ I also have experience as a DevOps and Data engineer. I built a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store through CI/CD.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
 
