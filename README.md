@@ -26,9 +26,11 @@ This is Shamir! I am a data scientist and software engineer.
   <h3 > Cloud </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="50" alt="AWS Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="50" alt="Azure Icon"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GCP-Dark.svg" width="50" alt="GCP Icon"/>
+  
   <h3 > Software Engineering & DevOps </h3>
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="50" alt="PyTest Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" width="50" alt="GitHub Actions Icon"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="50" alt="PyTest Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="50" alt="CI/CD Icon"/>
   <h3 > Version Control, OS & Documentation </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" alt="Git Icon"/>
