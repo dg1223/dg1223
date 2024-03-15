@@ -7,36 +7,50 @@ This is Shamir! I am a data scientist and software engineer.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="tech"">
+
+<div class="tech" id="tech1">
   <h2 > My tech stack </h2>
   <p > Proficiency is indicated both vertically (domain) and horizontally (software). </p>
   <h3 > Languages </h3>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" alt="Python Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" alt="JavaScript Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" alt="C++ Icon"/>
+</div>
+<div class="tech" id="tech2">
   <h3 > Machine Learning, Data Science & Engineering </h3>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,scikitlearn,r&perline=3)](https://skillicons.dev)
+
+<div class="tech" id="tech3">
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" width="50" alt="ScikitLearn Icon"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Dark.svg" width="50" alt="R Icon"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Dark.svg" width="50" alt="R Icon"/> -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50" alt="PostgreSQL Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="50" alt="MySQL Icon"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" alt="MariaDB Icon"/>
+<!--   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" alt="MariaDB Icon"/> -->
   <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" width="50" alt="Databricks Icon"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50" alt="Matlab Icon"/>
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50" alt="Matlab Icon"/> -->
   <h3 > Cloud </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="50" alt="AWS Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="50" alt="Azure Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GCP-Dark.svg" width="50" alt="GCP Icon"/>
-  
   <h3 > Software Engineering & DevOps </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GithubActions-Dark.svg" width="50" alt="GitHub Actions Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="50" alt="PyTest Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="50" alt="CI/CD Icon"/>
+</div>
+<div class="tech" id="tech4">
   <h3 > Version Control, OS & Documentation </h3>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" alt="Git Icon"/>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vscode,ubuntu&perline=4)](https://skillicons.dev)
+
+<div class="tech" id="tech5">
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" alt="Git Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="50" alt="Bash Icon"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" width="50" alt="Ubuntu Icon"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" alt="VSCode Icon"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" width="50" alt="Ubuntu Icon"/> -->
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" alt="VSCode Icon"/> -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="50" alt="Notion Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="50" alt="Jira Icon"/>
   <h3 > Web Development & Hosting </h3>
