@@ -12,8 +12,8 @@ This is Shamir! I am a data scientist and software engineer.
   <p > Proficiency is indicated both vertically (domain) and horizontally (software). </p>
   <h3 > Languages </h3>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" alt="Python Icon"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" alt="C++ Icon"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" alt="JavaScript Icon"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" alt="C++ Icon"/>
   <h3 > Machine Learning, Data Science & Engineering </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" width="50" alt="ScikitLearn Icon"/>
