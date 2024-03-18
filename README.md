@@ -19,7 +19,7 @@ This is Shamir! I am a data scientist and software engineer.
   <h3 > Machine Learning, Data Science & Engineering </h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,scikitlearn,r&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn,pytorch,r&perline=3)](https://skillicons.dev)
 
 <div class="tech" id="tech3">
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
