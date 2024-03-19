@@ -11,7 +11,7 @@ This is Shamir! I am a data scientist, machine learning practitioner and softwar
 
 <div class="tech" id="tech1">
   <h2 > My tech stack </h2>
-  <p>Proficiency in technologies is shown horizontally. Interest in domains is shown vertically.</p>
+  <p>Proficiency is technologies is indicated horizontally. Proficiency in domains is indicated vertically.</p>
   <h3 > Languages </h3>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" alt="Python Icon" title="Python"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" alt="JavaScript Icon" title="JavaScript"/>
