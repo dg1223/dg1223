@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Shamir! I am a data scientist, machine learning practitioner and software engineer.
+This is Shamir! I am a data scientist, data engineer, machine learning practitioner and (curious) software engineer. Please check out my pinned repositories to get an idea about 'some' of my AI/ML/Data Science projects.
 - 🔭 I also have experience in DevOps. I built a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store through CI/CD.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
