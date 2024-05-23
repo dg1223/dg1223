@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Shamir! I am a data scientist, data engineer, machine learning practitioner and (curious) software engineer. I am also an experience Cloud practitioner with proficiency in AWS and Azure.
+This is Shamir! I am a data engineer, data scientist, machine learning practitioner and (curious) software engineer. I am also an experience Cloud practitioner with proficiency in AWS and Azure.
 
 Please check out my pinned repositories to get an idea about 'some' of my AI/ML/Data Science projects.
 
