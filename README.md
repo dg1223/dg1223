@@ -1,9 +1,9 @@
 ## Hi there 👋
-This is Shamir! I am a data engineer, data scientist, machine learning practitioner and (curious) software engineer. I am also an experience Cloud practitioner with proficiency in AWS and Azure.
+This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced **Cloud** practitioner with proficiency in AWS and Azure.
 
-Please check out my pinned repositories to get an idea about 'some' of my AI/ML/Data Science projects.
+Please check out my pinned repositories to get an idea about some of my Data Engineering and Data Science projects.
 
-🔭 I also have experience in DevOps. I built a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store through CI/CD.
+🔭 I also have experience in **DevOps**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
 
