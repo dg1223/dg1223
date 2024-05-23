@@ -17,20 +17,23 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
   <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width="50" alt="C++ Icon" title="C++"/>
 </div>
 <div class="tech" id="tech2">
-  <h3 > Machine Learning, Data Science & Engineering </h3>
+  <h3> Data Engineering, Data Science & Machine Learning </h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=scikitlearn,pytorch,r&perline=3)](https://skillicons.dev)
-
 <div class="tech" id="tech3">
+  <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" width="50" alt="Databricks Icon" title="Databricks"/>
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" width="50" alt="ScikitLearn Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Dark.svg" width="50" alt="R Icon"/> -->
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50" alt="PostgreSQL Icon" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="50" alt="MySQL Icon" title="MySQL"/>
 <!--   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="50" alt="MariaDB Icon"/> -->
-  <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" width="50" alt="Databricks Icon" title="Databricks"/>
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50" alt="Matlab Icon"/> -->
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn,pytorch,r&perline=3)](https://skillicons.dev)
+
+<div class="tech" id="tech4">
   <h3 > Cloud </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="50" alt="AWS Icon" title="Amazon Web Services"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Azure-Dark.svg" width="50" alt="Azure Icon" title="Microsoft Azure"/>
@@ -40,13 +43,13 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="50" alt="PyTest Icon" title="PyTest"/>
   <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="50" alt="CI/CD Icon" title="CI/CD"/>
 </div>
-<div class="tech" id="tech4">
+<div class="tech" id="tech5">
   <h3 > Version Control, OS & Documentation </h3>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=git,bash,vscode,ubuntu&perline=4)](https://skillicons.dev)
 
-<div class="tech" id="tech5">
+<div class="tech" id="tec65">
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" alt="Git Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="50" alt="Bash Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" width="50" alt="Ubuntu Icon"/> -->
