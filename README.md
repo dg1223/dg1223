@@ -1,9 +1,11 @@
 ## Hi there 👋
-This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced **Cloud** practitioner with proficiency in AWS and Azure.
+This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced Cloud practitioner with proficiency in AWS and Azure.
+
+⚡ I’m currently working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
+
+🔭 I also have **DevOps** experience. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
 
 Please check out my pinned repositories to get an idea about some of my Data Engineering and Data Science projects.
-
-🔭 I also have experience in **DevOps**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,6 +24,7 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
 
 <div class="tech" id="tech3">
   <img src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" width="50" alt="Databricks Icon" title="Databricks"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" width="50" alt="Spark Icon" title="Apache Spark"/>
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PyTorch-Dark.svg" width="50" alt="PyTorch Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" width="50" alt="ScikitLearn Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/R-Dark.svg" width="50" alt="R Icon"/> -->
