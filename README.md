@@ -79,7 +79,7 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"  alt="Google Scholar Badge"/>
   </a>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.dg1223.gamchha">
+  <a href="https://play.google.com/store/apps/details?id=com.thebest.gamchha">
     <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"  alt="Google Play Badge"/>
   </a>
   <a href="https://leetcode.com/dg1223">
