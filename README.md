@@ -12,7 +12,7 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
 
 <div class="tech" id="tech1">
   <h2 > My tech stack </h2>
-  <p>Proficiency is technologies is indicated horizontally. Proficiency in domains is indicated vertically.</p>
+  <p>Proficiency in technologies is indicated horizontally. Proficiency in domains is indicated vertically.</p>
   <h3 > Languages </h3>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="50" alt="Python Icon" title="Python"/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" alt="JavaScript Icon" title="JavaScript"/>
