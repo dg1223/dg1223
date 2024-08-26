@@ -1,6 +1,8 @@
 ## Hi there 👋
 This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced Cloud practitioner with proficiency in AWS and Azure.
 
+- 👯 I’m currently leading the data engineering efforts for a RAG (GenAI/LLM) project that aims to create an AI-based Q&A tool from 200+ history books.
+
 ⚡ I’m currently working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
 
 🔭 I also have **DevOps** experience. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
