@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced Cloud practitioner with proficiency in AWS and Azure.
 
-- 👯 I’m currently leading the data engineering efforts for a RAG (GenAI/LLM) project that aims to create an AI-based Q&A tool from 200+ history books.
+👯 I’m currently leading the data engineering efforts for a RAG (GenAI/LLM) project that aims to create an AI-based Q&A tool from 200+ history books.
 
 ⚡ I’m currently working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
 
