@@ -5,7 +5,7 @@ This is Shamir! I am a data engineer, data scientist and software developer. I a
 
 ⚡ I’m currently working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
 
-🔭 I also have **DevOps** experience. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
+🔭 I am also proficient in **CI/CD**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
 
 Please check out my pinned repositories to get an idea about some of my Data Engineering and Data Science projects.
 
