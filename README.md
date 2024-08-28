@@ -1,15 +1,15 @@
 ## Hi there 👋
 This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced Cloud practitioner with proficiency in AWS and Azure.
 
-👯 I’m currently leading the data engineering efforts for a RAG (GenAI/LLM) project that aims to create an AI-based Q&A tool from 200+ history books.
+👯 I’m currently working on two open-source projects:
+1. I am the Lead Data Engineer for a RAG (GenAI/LLM) open-source project that aims to create an AI-based Q&A tool from 200+ history books.
+2. I am working as a data engineer on a real-time incident reporting and response system for flood victims.
 
-⚡ I’m currently working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
+⚡ I’m also working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
 
-🔭 I am also proficient in **CI/CD**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
+🔭 I have also done some **CI/CD**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.
 
-Please check out my pinned repositories to get an idea about some of my Data Engineering and Data Science projects.
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Stats](https://github-readme-stats.vercel.app/api?username=dg1223)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 
 <div class="tech" id="tech1">
@@ -36,7 +36,7 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" width="50" alt="Matlab Icon"/> -->
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=scikitlearn,pytorch,r&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,r&perline=4)](https://skillicons.dev)
 
 <div class="tech" id="tech4">
   <h3 > Cloud </h3>
@@ -52,15 +52,15 @@ Please check out my pinned repositories to get an idea about some of my Data Eng
   <h3 > Version Control, OS & Documentation </h3>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,vscode,ubuntu&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,vscode,ubuntu,notion,jira&perline=6)](https://skillicons.dev)
 
 <div class="tech" id="tec65">
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" alt="Git Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" width="50" alt="Bash Icon"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ubuntu-Dark.svg" width="50" alt="Ubuntu Icon"/> -->
 <!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" alt="VSCode Icon"/> -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="50" alt="Notion Icon" title="Notion"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="50" alt="Jira Icon" title="Jira"/>
+<!--   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Notion-Dark.svg" width="50" alt="Notion Icon" title="Notion"/> -->
+<!--   <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" width="50" alt="Jira Icon" title="Jira"/> -->
   <h3 > Web Development & Hosting </h3>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50" alt="React Icon" title="React"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="50" alt="NodeJS Icon" title="NodeJS"/>
