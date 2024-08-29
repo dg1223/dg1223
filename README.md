@@ -2,7 +2,7 @@
 This is Shamir! I am a data engineer, data scientist and software developer. I am also an experienced Cloud practitioner with proficiency in AWS and Azure.
 
 👯 I’m currently working on two open-source projects:
-1. I am the Lead Data Engineer and Team Lead for a RAG (GenAI/LLM) open-source project that aims to create an AI-based Q&A tool from 200+ history books.
+1. I am the Lead Data Engineer and Team Lead for an open-source RAG (GenAI/LLM) project to build an AI-based Q&A tool for 200+ history books.
 2. I am working as a data engineer on a real-time incident reporting and response system for flood victims.
 
 ⚡ I’m also working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
