@@ -2,9 +2,13 @@
 This is Shamir! I am a Senior Data Engineer / Tech Lead at Bank of Montreal, Canada.
 
 🔭 I lead a data migration project at BMO where we are migrating an on-premm source system to AWS.
+
 🌱 Besides data engineering, I have worked as a Data Scientist. I am skilled in traditional machine learning and some deep learning.
+
 🌱 I have started leveraging AI agents at work to deliver projects at a greater pace.
+
 ⚡ Besides my day job, I have worked in open source projects to create a data pipeline to train LLMs using RAG. I have also dipped my feet into some web development using React/Node.
+
 😄 I am currently learning backend development and some DevOps.
 
 
