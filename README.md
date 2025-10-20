@@ -1,11 +1,12 @@
 ## Hi there 👋
-This is Shamir! I am a data engineer/scientist with proficiency in AWS and Azure.
+This is Shamir! I am a Senior Data Engineer / Tech Lead at Bank of Montreal, Canada.
 
-👯 I’m currently working on two open-source projects:
-1. I am the Lead Data Engineer and Team Lead for an open-source RAG (GenAI/LLM) project to build an AI-based Q&A tool for 200+ history books.
-2. I am working as a data engineer on a real-time incident reporting and response system for flood victims.
+🔭 I lead a data migration project at BMO where we are migrating an on-premm source system to AWS.
+🌱 Besides data engineering, I have worked as a Data Scientist. I am skilled in traditional machine learning and some deep learning.
+🌱 I have started leveraging AI agents at work to deliver projects at a greater pace.
+⚡ Besides my day job, I have worked in open source projects to create a data pipeline to train LLMs using RAG. I have also dipped my feet into some web development using React/Node.
+😄 I am currently learning backend development and some DevOps.
 
-⚡ I’m also working on a Data Engineering/ML project that retreives live CCTV feed from the 511ON website, generates a more meaningful dashboard showing the live feed and detects which cameras are malfunctioning.
 
 <!--  🔭 I have also done some **CI/CD**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.  -->
 <!--  
