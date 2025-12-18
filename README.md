@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Shamir! I am a Senior Data Engineer / Tech Lead at Bank of Montreal, Canada.
+This is Shamir! I am a Data Engineering Lead at Bank of Montreal, Canada.
 
 🔭 I lead a data migration project at BMO where we are migrating an on-premm source system to AWS.
 
