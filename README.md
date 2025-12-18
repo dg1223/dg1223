@@ -11,7 +11,7 @@ This is Shamir! I am a Senior Data Engineer / Tech Lead at Bank of Montreal, Can
 
 😄 I am currently learning backend development and some DevOps.
 
-📫 This GitHub profile showcases old research works and hobby projects.
+📫 This GitHub profile showcases old research work and hobby projects.
 
 
 <!--  🔭 I have also done some **CI/CD**. Here's a demo of a simple [React Native app](https://play.google.com/store/apps/details?id=com.dg1223.gamchha) that I built for one of my clients. It can be [automatically deployed](https://github.com/dg1223/ci-cd-pipeline-play-store-deployment) to Play Store using CI/CD across development, staging and production environments.  -->
